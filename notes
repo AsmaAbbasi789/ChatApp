@@ -1,0 +1,12 @@
+Essence of this App
+
+## Backend
+# We are using mongogb and mongoose as an ODM. Storing data on mongogb Atlas.
+# Generated JWT secret key via bash terminal using: openssl rand -base 64 32
+# Added middleware for authentication and autherization
+
+## Frontend
+# Used Daisy UI and Taildwind CSS Glassmorphism effect
+# Used Zustand -> for state management
+# Used socket.io for real time communication
+
