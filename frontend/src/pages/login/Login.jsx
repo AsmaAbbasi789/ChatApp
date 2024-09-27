@@ -28,7 +28,7 @@ const Login = () => {
 						</label>
 						<input 
 							type='text' 
-							placeholder='Enter 	Username' 
+							placeholder='Enter Username' 
 							className='w-full input input-bordered h-10' 
 							value={username}
 							onChange={(e)=> setUsername(e.target.value)}
